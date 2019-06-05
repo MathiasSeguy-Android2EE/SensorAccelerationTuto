@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="sensors">            
+        <item>Accelerometer</item>    
+        <item>Linear Accelerometer</item>
+        <item>Gravity</item>
+    </string-array>    
+</resources>
